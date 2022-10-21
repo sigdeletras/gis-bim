@@ -6,7 +6,7 @@ Lecturas y recursos sobre GIS & BIM para la **mesa de trabajo sobre la realidad 
 
 ## Imprencindibles
 
-[Podcast 101 BIM y GIS. Integración de información geográfica y metodología BIM]([https://www.notion.so/Podcast-101-BIM-y-GIS-Integraci-n-de-informaci-n-geogr-fica-y-metodolog-a-BIM-9d0f0fa4ccf746ffac12b03b56a13260](https://www.bimrras.com/episodio/101-bim-y-gis-con-agusti-jardi/)])
+[Podcast 101 BIM y GIS. Integración de información geográfica y metodología BIM](https://www.bimrras.com/episodio/101-bim-y-gis-con-agusti-jardi/)
 
 [(PDF) Integración de las tecnologías BIM & GIS en el nuevo paradigma urbano de las SmartCities. Un modelo de información multiescala. fundacion.arquia.com](https://www.google.com/url?sa=t&source=web&rct=j&url=https://fundacion.arquia.com/files/public/download/XTjknswbMKzF7CGFQBXnF5RDxoA/Njk2NjA/MA/Proyecto-Sandra-Vera_-Arquia.pdf&ved=2ahUKEwjWrNHF_ej6AhXKOcAKHXhgCpU4ChAWegQIIBAB&usg=AOvVaw0iS70hdmgRv5qhnTOWy1ub)
 
