@@ -7,9 +7,8 @@ Lecturas y recursos sobre GIS & BIM para la **mesa de trabajo sobre la realidad 
 
 [Podcast 101 BIM y GIS. Integración de información geográfica y metodología BIM](https://www.bimrras.com/episodio/101-bim-y-gis-con-agusti-jardi/)
 
-[(PDF) Integración de las tecnologías BIM & GIS en el nuevo paradigma urbano de las SmartCities. Un modelo de información multiescala. fundacion.arquia.com](https://www.google.com/url?sa=t&source=web&rct=j&url=https://fundacion.arquia.com/files/public/download/XTjknswbMKzF7CGFQBXnF5RDxoA/Njk2NjA/MA/Proyecto-Sandra-Vera_-Arquia.pdf&ved=2ahUKEwjWrNHF_ej6AhXKOcAKHXhgCpU4ChAWegQIIBAB&usg=AOvVaw0iS70hdmgRv5qhnTOWy1ub)
+[(PDF) Integración de las tecnologías BIM & GIS en el nuevo paradigma urbano de las SmartCities. Un modelo de información multiescala. fundacion.arquia.com] [Notas](/nota_01.md)
 
-*Mientras que un creciente número de fuentes de geoinformación está disponible, la información detallada acerca de las edificaciones típicamente no es ni administrada, ni representada por los datos GIS. Para mejorar y complementar los modelos de ciudades 3D virtuales al respecto, la información procedente de sistemas de diseño asistido por computador u otras herramientas de manejo de edificaciones necesita ser integrada y así crear un puente entre los dominios de diseño asistido por computador, GIS y BIM.*
 
 [¿Qué es el BIM?: reflexiones después del Forum TIG/SIG - UNIGIS](https://www.unigis.es/que-es-el-bim-forum-tig-sig/)
 
