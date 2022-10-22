@@ -5,21 +5,19 @@ Lecturas y recursos sobre GIS & BIM para la **mesa de trabajo sobre la realidad 
 
 ## Imprencindibles
 
-1. Podcast 101 BIM y GIS. Integración de información geográfica y metodología BIM. [Enlace](https://www.bimrras.com/episodio/101-bim-y-gis-con-agusti-jardi/) [Notas 01](/notas/01.md)
+- Podcast 101 BIM y GIS. Integración de información geográfica y metodología BIM. [Enlace](https://www.bimrras.com/episodio/101-bim-y-gis-con-agusti-jardi/)
 
-2. (PDF) Integración de las tecnologías BIM & GIS en el nuevo paradigma urbano de las SmartCities. Un modelo de información multiescala. fundacion.arquia.com [Enlace](https://www.google.com/url?sa=t&source=web&rct=j&url=https://fundacion.arquia.com/files/public/download/XTjknswbMKzF7CGFQBXnF5RDxoA/Njk2NjA/MA/Proyecto-Sandra-Vera_-Arquia.pdf&ved=2ahUKEwjWrNHF_ej6AhXKOcAKHXhgCpU4ChAWegQIIBAB&usg=AOvVaw0iS70hdmgRv5qhnTOWy1ub) [Notas 02](/notas/02.md)
+- (PDF) Integración de las tecnologías BIM & GIS en el nuevo paradigma urbano de las SmartCities. Un modelo de información multiescala. fundacion.arquia.com [Enlace](https://www.google.com/url?sa=t&source=web&rct=j&url=https://fundacion.arquia.com/files/public/download/XTjknswbMKzF7CGFQBXnF5RDxoA/Njk2NjA/MA/Proyecto-Sandra-Vera_-Arquia.pdf&ved=2ahUKEwjWrNHF_ej6AhXKOcAKHXhgCpU4ChAWegQIIBAB&usg=AOvVaw0iS70hdmgRv5qhnTOWy1ub)
 
-[¿Qué es el BIM?: reflexiones después del Forum TIG/SIG - UNIGIS](https://www.unigis.es/que-es-el-bim-forum-tig-sig/)
+- ¿Qué es el BIM?: reflexiones después del Forum TIG/SIG - UNIGIS [Enlace](https://www.unigis.es/que-es-el-bim-forum-tig-sig/)
 
 ## Infraestructuras
 
-[La integración de los SIG y el BIM transformará el diseño y construcción de infraestructuras](https://www.notion.so/La-integraci-n-de-los-SIG-y-el-BIM-transformar-el-dise-o-y-construcci-n-de-infraestructuras-051c8efe98f94106907472d023c18e30)
+- La integración de los SIG y el BIM transformará el diseño y construcción de infraestructuras. Redshift - Autodesk[Enlace](https://redshift.autodesk.es/integracion-sig-bim/)
 
-[Cuatro beneficios de BIM y SIG en carreteras y autopistas](https://www.notion.so/Cuatro-beneficios-de-BIM-y-SIG-en-carreteras-y-autopistas-e82e439e6dca453ba77eda5692da51ef)
+- Cuatro beneficios de BIM y SIG en carreteras y autopistas. Autodesk [Enlace](https://www.autodeskjournal.com/cuatro-beneficios-integracion-bim-y-gis-railes-y-carreteras/)
 
-[Integración de BIM y GIS en carreteras y autopistas](https://www.notion.so/Integraci-n-de-BIM-y-GIS-en-carreteras-y-autopistas-7fa6105b3d1c4ae5aba67677b1527f52)
-
-[Geograma, inmersa en la digitalización de redes de carreteras  | Geograma](https://www.notion.so/Geograma-inmersa-en-la-digitalizaci-n-de-redes-de-carreteras-Geograma-4e7d5a215a924542a44a3128da2ceeb1)
+- Geograma, inmersa en la digitalización de redes de carreteras. *¿Proyecto de I+D+i basado en el diseño y desarrollo de un Servicio de Modelado BIM del estado actual de las Infraestructuras viarias. Un proyecto I-D+I financiado por la Diputación Foral de Álava*  [Enlace][https://www.geograma.com/blog/digitalizacion-redes-carreteras/)
 
 [Ineco recibe el Premio Esri en GIS por la integración BIM-GIS en el proyecto de la Autovía A-76 | Ministerio de Transportes, Movilidad y Agenda Urbana](https://www.notion.so/Ineco-recibe-el-Premio-Esri-en-GIS-por-la-integraci-n-BIM-GIS-en-el-proyecto-de-la-Autov-a-A-76-Mi-549d818b79164c159a77b0813fc417df)
 
