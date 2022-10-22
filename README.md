@@ -46,7 +46,7 @@ Lecturas y recursos sobre GIS & BIM para la **mesa de trabajo sobre la realidad 
 
 - Convert IFC to CityGML | Data Integration | FME [Enlace](https://www.notion.so/Convert-IFC-to-CityGML-Data-Integration-FME-5d2029ff595a4b3ab7c1b3818cec7520)
 - CityGML and 3D data in QGIS. Create and display 3D buildings in QGIS | by The Pointscene Diaries | The Pointscene Diaries | Medium [Enlace](https://www.notion.so/CityGML-and-3D-data-in-QGIS-Create-and-display-3D-buildings-in-QGIS-by-The-Pointscene-Diaries-T-79cf22a85ac84943a9ad71a842eb5145)
-- Visualización de CityGML en QGIS - MappingGIS [Enñace](https://www.notion.so/Visualizaci-n-de-CityGML-en-QGIS-MappingGIS-ee7aa5dda32e44f2b5cda7075b781c1c)
+- Visualización de CityGML en QGIS - MappingGIS [Enlace](https://www.notion.so/Visualizaci-n-de-CityGML-en-QGIS-MappingGIS-ee7aa5dda32e44f2b5cda7075b781c1c)
 - GitHub - tudelft3d/ifc2citygml: Automatic conversion of IFC models 2x3 to CityGML LOD 1/2/3/4 [Enlace](https://www.notion.so/GitHub-tudelft3d-ifc2citygml-Automatic-conversion-of-IFC-models-2x3-to-CityGML-LOD-1-2-3-4-c05dd45d96674a6596d26094a69dff88)
 - GitHub - NickNick1210/ifc_to_citygml: Konvertierung von Gebäudemodellen aus IFC zu CityGML im Rahmen einer Masterarbeit [Enlace](https://www.notion.so/GitHub-NickNick1210-ifc_to_citygml-Konvertierung-von-Geb-udemodellen-aus-IFC-zu-CityGML-im-Rahmen-88184e4ae07a4bafa6d16799ae58eabc)
 - citygml · GitHub Topics · GitHub [Enlace](https://www.notion.so/citygml-GitHub-Topics-GitHub-7446140213dc4880b724dcce9a4ffb25)
