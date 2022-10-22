@@ -21,7 +21,7 @@ Lecturas y recursos sobre GIS & BIM para la **mesa de trabajo sobre la realidad 
 
 - Ineco recibe el Premio Esri en GIS por la integración BIM-GIS en el proyecto de la Autovía A-76 | Ministerio de Transportes, Movilidad y Agenda Urbana. [Enlace](https://www.ineco.com/webineco/noticias/ineco-recibe-premio-esri-gis-integraci%C3%B3n-bim-gis-proyecto-autov%C3%ADa-76)
 
-- Ventajas de la Colaboración GIS y BIM para el diseño de Infraestructuras [Enlace]([https://www.notion.so/Ventajas-de-la-Colaboraci-n-GIS-y-BIM-para-el-dise-o-de-Infraestructuras-ef2a6f7d26094f87b33a04d9a1cbbf74](https://seystic.com/ventajas-de-la-integracion-de-sig-y-bim-para-el-diseno-y-la-construccion-de-infraestructuras/))
+- Ventajas de la Colaboración GIS y BIM para el diseño de Infraestructuras [Enlace](https://seystic.com/ventajas-de-la-integracion-de-sig-y-bim-para-el-diseno-y-la-construccion-de-infraestructuras/)
 
 ## Formatos y librerías
 
