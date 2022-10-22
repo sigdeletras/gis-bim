@@ -5,9 +5,9 @@ Lecturas y recursos sobre GIS & BIM para la **mesa de trabajo sobre la realidad 
 
 ## Imprencindibles
 
-[Podcast 101 BIM y GIS. Integración de información geográfica y metodología BIM](https://www.bimrras.com/episodio/101-bim-y-gis-con-agusti-jardi/)
+1. [Podcast 101 BIM y GIS. Integración de información geográfica y metodología BIM](https://www.bimrras.com/episodio/101-bim-y-gis-con-agusti-jardi/)
 
-[(PDF) Integración de las tecnologías BIM & GIS en el nuevo paradigma urbano de las SmartCities. Un modelo de información multiescala. fundacion.arquia.com](https://www.google.com/url?sa=t&source=web&rct=j&url=https://fundacion.arquia.com/files/public/download/XTjknswbMKzF7CGFQBXnF5RDxoA/Njk2NjA/MA/Proyecto-Sandra-Vera_-Arquia.pdf&ved=2ahUKEwjWrNHF_ej6AhXKOcAKHXhgCpU4ChAWegQIIBAB&usg=AOvVaw0iS70hdmgRv5qhnTOWy1ub) [Notas 02](/notas/02.md)
+2. (PDF) Integración de las tecnologías BIM & GIS en el nuevo paradigma urbano de las SmartCities. Un modelo de información multiescala. fundacion.arquia.com [Enlace](https://www.google.com/url?sa=t&source=web&rct=j&url=https://fundacion.arquia.com/files/public/download/XTjknswbMKzF7CGFQBXnF5RDxoA/Njk2NjA/MA/Proyecto-Sandra-Vera_-Arquia.pdf&ved=2ahUKEwjWrNHF_ej6AhXKOcAKHXhgCpU4ChAWegQIIBAB&usg=AOvVaw0iS70hdmgRv5qhnTOWy1ub) [Notas 02](/notas/02.md)
 
 [¿Qué es el BIM?: reflexiones después del Forum TIG/SIG - UNIGIS](https://www.unigis.es/que-es-el-bim-forum-tig-sig/)
 
