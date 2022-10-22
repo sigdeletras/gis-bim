@@ -13,15 +13,15 @@ Lecturas y recursos sobre GIS & BIM para la **mesa de trabajo sobre la realidad 
 
 ## Infraestructuras
 
-- La integración de los SIG y el BIM transformará el diseño y construcción de infraestructuras. Redshift - Autodesk[Enlace](https://redshift.autodesk.es/integracion-sig-bim/)
+- La integración de los SIG y el BIM transformará el diseño y construcción de infraestructuras. Redshift - Autodesk [Enlace](https://redshift.autodesk.es/integracion-sig-bim/)
 
 - Cuatro beneficios de BIM y SIG en carreteras y autopistas. Autodesk [Enlace](https://www.autodeskjournal.com/cuatro-beneficios-integracion-bim-y-gis-railes-y-carreteras/)
 
-- Geograma, inmersa en la digitalización de redes de carreteras. *¿Proyecto de I+D+i basado en el diseño y desarrollo de un Servicio de Modelado BIM del estado actual de las Infraestructuras viarias. Un proyecto I-D+I financiado por la Diputación Foral de Álava*  [Enlace][https://www.geograma.com/blog/digitalizacion-redes-carreteras/)
+- Geograma, inmersa en la digitalización de redes de carreteras. *¿Proyecto de I+D+i basado en el diseño y desarrollo de un Servicio de Modelado BIM del estado actual de las Infraestructuras viarias. Un proyecto I-D+I financiado por la Diputación Foral de Álava*  [Enlace](https://www.geograma.com/blog/digitalizacion-redes-carreteras/)
 
-[Ineco recibe el Premio Esri en GIS por la integración BIM-GIS en el proyecto de la Autovía A-76 | Ministerio de Transportes, Movilidad y Agenda Urbana](https://www.notion.so/Ineco-recibe-el-Premio-Esri-en-GIS-por-la-integraci-n-BIM-GIS-en-el-proyecto-de-la-Autov-a-A-76-Mi-549d818b79164c159a77b0813fc417df)
+- Ineco recibe el Premio Esri en GIS por la integración BIM-GIS en el proyecto de la Autovía A-76 | Ministerio de Transportes, Movilidad y Agenda Urbana. [Enlace](https://www.ineco.com/webineco/noticias/ineco-recibe-premio-esri-gis-integraci%C3%B3n-bim-gis-proyecto-autov%C3%ADa-76)
 
-[Ventajas de la Colaboración GIS y BIM para el diseño de Infraestructuras](https://www.notion.so/Ventajas-de-la-Colaboraci-n-GIS-y-BIM-para-el-dise-o-de-Infraestructuras-ef2a6f7d26094f87b33a04d9a1cbbf74)
+- Ventajas de la Colaboración GIS y BIM para el diseño de Infraestructuras [Enlace]([https://www.notion.so/Ventajas-de-la-Colaboraci-n-GIS-y-BIM-para-el-dise-o-de-Infraestructuras-ef2a6f7d26094f87b33a04d9a1cbbf74](https://seystic.com/ventajas-de-la-integracion-de-sig-y-bim-para-el-diseno-y-la-construccion-de-infraestructuras/))
 
 ## Formatos y librerías
 
