@@ -10,6 +10,7 @@ Lecturas y recursos sobre GIS & BIM para la **mesa de trabajo sobre la realidad 
 - ¿Qué es el BIM?: reflexiones después del Forum TIG/SIG - UNIGIS [Enlace](https://www.unigis.es/que-es-el-bim-forum-tig-sig/)
 - Principales aplicaciones de la información geográfica en el modelado BIM | Geograma [Enlace](https://www.geograma.com/blog/informacion-geografica-bim/)
 - El papel de la digitalización territorial en la Administración Pública: SIG y BIM | AEPJP [Enlace](https://www.aepjp.es/papel-digitalizacion-territorial-adiministracion-publica)
+- Martín Forero, Laura (2022): *Visores web GIS 3D para la integración con BIM en proyectos de infraestructura lineal de transportes*. Actas XIX Congreso de Tecnologías de la Información Geográfica. pp 592-599. Zaragoza[PDF](https://drive.google.com/file/d/1XxBaVNQKLEdS5ykUqG0Uowfm7_pqQszq/view)
 - BIM, diseño de alternativas en Real Estate | Blog | DOTGIS [Enlace](https://www.dotgiscorp.com/es/blog/bim-real-estate/))
 
 ## Enlaces
